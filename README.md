@@ -1,12 +1,12 @@
-#*TO DO LIST*
+# * TO DO LIST *
 
-*Meditation
+* Meditation
 
-*Do homework
+* Do homework
 
-*Read my novel
+* Read my novel
 
-*finish my projects for ALX
+* Finish my duties in ALX
 
-*Pass French test here : [French Test][1].
+* Pass French test here : [French Test][1].
 [1]:https://apprendre.tv5monde.com/fr/exercices/b1-intermediaire/reparer-les-objts-casses?resultat=1
