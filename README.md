@@ -8,5 +8,6 @@
 
 * Finish my duties in ALX
 
-* Pass French test here : [French Test][1].
-[1]:https://apprendre.tv5monde.com/fr/exercices/b1-intermediaire/reparer-les-objts-casses?resultat=1
+* Pass French test here : [French test](https://apprendre.tv5monde.com/fr/exercices/b1-intermediaire/reparer-les-objets-casses?resultat=1)
+
+* I LOVE CODE .
